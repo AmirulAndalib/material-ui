@@ -1,6 +1,6 @@
 {
   "name": "@mui/monorepo",
-  "version": "6.2.1",
+  "version": "6.3.0",
   "private": true,
   "scripts": {
     "preinstall": "npx only-allow pnpm",
@@ -132,7 +132,7 @@
     "@types/lodash": "^4.17.13",
     "@types/mocha": "^10.0.10",
     "@types/node": "^20.17.10",
-    "@types/react": "^19.0.1",
+    "@types/react": "^19.0.2",
     "@types/yargs": "^17.0.33",
     "@typescript-eslint/eslint-plugin": "^7.18.0",
     "@typescript-eslint/parser": "^7.18.0",
